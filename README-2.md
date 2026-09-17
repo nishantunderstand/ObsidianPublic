@@ -1,1 +1,7 @@
 npx quartz sync
+timeout /t 30 /nobreak
+start chrome "https://nishantunderstand.github.io/ObsidianPublic/"
+exit
+
+
+npx quartz sync; timeout /t 30 /nobreak; start chrome "https://nishantunderstand.github.io/ObsidianPublic/"; exit
