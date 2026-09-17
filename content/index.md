@@ -4,7 +4,9 @@ title: Welcome to the Study Club
 ![[StudyClub.png]]
 
 > Ctrl+K : To Search the Content.
+
 > If you get 404 Error, Navigate to the Home Page and then click on the link again.
+
 > Else, Navigate from Hamburger Menu.
 
 Contact Me:
