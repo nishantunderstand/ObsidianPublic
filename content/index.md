@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the Study Club
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
+Ctrl+K : To Search the Content.
