@@ -1,5 +1,0 @@
-![[Microservice]]
-![[Microservice Introduction]]
-![[Microservice Communication Protocols]]
-![[A.png]]
-![[A.png]]
