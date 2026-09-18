@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: View
+    order:
+      - file.name
+      - file.links
